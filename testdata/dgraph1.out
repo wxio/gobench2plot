@@ -1,0 +1,11 @@
+BenchmarkQuery/q1.1-6         	    5000	    284343 ns/op	   89590 B/op	    1786 allocs/op
+BenchmarkQuery/q1.2-6         	    5000	    293815 ns/op	   99131 B/op	    1925 allocs/op
+BenchmarkQuery/q2.1-6         	    5000	    303683 ns/op	  101640 B/op	    2065 allocs/op
+BenchmarkQuery/q2.2-6         	    5000	    348148 ns/op	  120871 B/op	    2323 allocs/op
+BenchmarkQuery/q3.1-6         	    5000	    326847 ns/op	  110129 B/op	    2262 allocs/op
+BenchmarkQuery/q3.2-6         	    5000	    336027 ns/op	  113858 B/op	    2308 allocs/op
+BenchmarkQuery/q4.1-6         	    3000	    360177 ns/op	  118583 B/op	    2434 allocs/op
+BenchmarkQuery/q4.2-6         	    5000	    371625 ns/op	  122308 B/op	    2480 allocs/op
+BenchmarkQuery/q5.1-6         	    5000	    365463 ns/op	  118585 B/op	    2434 allocs/op
+BenchmarkQuery/q5.2-6         	    5000	    370009 ns/op	  122311 B/op	    2480 allocs/op
+PASS
