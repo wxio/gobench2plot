@@ -1,0 +1,12 @@
+BenchmarkQuery/q1.1-6         	   10000	    272723 ns/op
+BenchmarkQuery/q1.2-6         	   10000	    288589 ns/op
+BenchmarkQuery/q2.1-6         	   10000	    299185 ns/op
+BenchmarkQuery/q2.2-6         	   10000	    345340 ns/op
+BenchmarkQuery/q3.1-6         	   10000	    324558 ns/op
+BenchmarkQuery/q3.2-6         	   10000	    336169 ns/op
+BenchmarkQuery/q4.1-6         	   10000	    358407 ns/op
+BenchmarkQuery/q4.2-6         	   10000	    384374 ns/op
+BenchmarkQuery/q5.1-6         	   10000	    367201 ns/op
+BenchmarkQuery/q5.2-6         	   10000	    372253 ns/op
+PASS
+ok  	github.com/dgraph-io/dgraph/antlr4go/lexer	33.865s
